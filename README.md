@@ -8,4 +8,4 @@ A test repository for practising codes 🌟.
 status](http://img.shields.io/badge/build-passing-brightgreen)
 ![license](http://img.shields.io/badge/license=MUJ-blue)
 ![version](http://img,shield.io/badge/version-1.0-orange)
-![banner]("C:\Users\HP\Pictures\bannercoursera.png")
+![banner](https://github.com/Techtosh-sh/coursera-test/blob/main/bannercoursera.png?raw=true)
