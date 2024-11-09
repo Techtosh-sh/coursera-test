@@ -1,4 +1,4 @@
-# coursera-test
+# coursera-test2
 A sample repository created for testing purpose
  
 # coursera test repository🎓.
