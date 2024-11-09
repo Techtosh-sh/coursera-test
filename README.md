@@ -1,2 +1,10 @@
 # coursera-test
-coursera test repository
+A sample repository created for testing purpose
+ 
+# coursera test repository🎓.
+A test repository for practising codes 🌟.
+
+![Build
+status](http://img.shields.io/badge/build-passing-brightgreen)
+![license](http://img.shields.io/badge/license=MIT-blue)
+![version](http://img,shield.io/badge/version-1.0-orange)
