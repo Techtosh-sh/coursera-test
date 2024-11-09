@@ -7,5 +7,5 @@ A test repository for practising codes 🌟.
 ![Build
 status](http://img.shields.io/badge/build-passing-brightgreen)
 ![license](http://img.shields.io/badge/license=MUJ-blue)
-![version](http://img,shield.io/badge/version-1.0-orange)
+![project logo](https://github.com/Techtosh-sh/coursera-test/blob/main/version%20logo.png?raw=true)
 ![banner](https://github.com/Techtosh-sh/coursera-test/blob/main/bannercoursera.png?raw=true)
